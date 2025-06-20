@@ -1,0 +1,25 @@
+
+# node modules
+node_modules/
+
+# pasta de relatórios do CodeceptJS
+output/
+
+# arquivos de log e temporários
+*.log
+*.tmp
+
+# sistema operacional
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Ambiente
+.env
+.env.local
+
+# Arquivos de build, se algum dia gerar
+dist/
+build/
