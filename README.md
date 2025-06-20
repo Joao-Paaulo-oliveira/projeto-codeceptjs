@@ -8,7 +8,7 @@ Este repositório contém um projeto de automação de testes End-to-End (E2E) c
 
 > **Metodologia:** Cada cenário automatizado neste projeto também foi documentado para execução manual. Isso garante um alinhamento total entre as estratégias e validação dupla do comportamento esperado.
 
-### Feature: Cadastro de Usuário
+### Feature: Login
 - ✔️ Realizar novo cadastro com dados válidos e únicos.
 
 ### Feature: Login
