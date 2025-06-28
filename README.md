@@ -26,6 +26,4 @@ Este repositório contém um projeto de automação de testes End-to-End (E2E) c
 - Node.js v16+  
 - Git
 
-##  Instalação
 
-```bash
